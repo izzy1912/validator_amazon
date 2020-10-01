@@ -1,9 +1,4 @@
 #!/bin/bash
-# Amazon Valid Email Checker
-# Created By Freenanda~
-# Date 31-05-2k19 at 01:16am
-
-
 RED='\e[31m'
 CYAN='\e[36m'
 YELLOW='\e[33m'
